@@ -18,5 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 - Emma Chen
 - Jay Kuo
-- Harry Potter hermionne\
-ddddd
+- Harry Potter hermionne\hi
