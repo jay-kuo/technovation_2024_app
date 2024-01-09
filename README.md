@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 ## Contributors
 
 - Emma Chen
-- Harry potter
+- Harry potter 2
