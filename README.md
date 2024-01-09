@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 ## Contributors
 
 - Emma Chen
-- Harry potter 2
-- Jay hi hi hihihihihihihih
+- Jay Kuo
+- Harry Potter  hermione
