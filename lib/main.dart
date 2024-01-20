@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'fruit.dart';
+import 'animals.dart';
 
 void main() {
   runApp(const MyApp());
@@ -58,9 +58,9 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
-  void _printFruits(){
-    fruits.forEach((element) {
-      element.rot();
+  void _printAnimals(){
+    animals.forEach((element) {
+      element.habitat();
     });
   }
 
@@ -119,7 +119,7 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
-            ElevatedButton(onPressed: _printFruits, child: Text('say hello'))
+            ElevatedButton(onPressed: _printAnimals, child: Text('say hello'))
           ],
         ),
       ),
